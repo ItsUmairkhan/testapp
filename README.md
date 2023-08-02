@@ -1,2 +1,2 @@
 # testapp
-test app
+test app test
